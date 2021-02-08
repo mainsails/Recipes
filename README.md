@@ -10,7 +10,7 @@ Each recipe will auto-generate links to a Google image search for that dish, rec
 To save your place while looking up at the ingredients, click the step you're on to highlight it. Click it again to remove the highlight, or use the left/right arrow keys to advance.
 
 ## RECIPE FORMAT
-The recipe's Markdown file should be named with dashes in place of spaces (ex: `rice-pilau.md` or `saag-paneer.md`) and the file should follow this format:
+The recipe's Markdown file should be named with dashes in place of spaces (eg. `rice-pilau.md` or `saag-paneer.md`) and the file should follow this format:
 
 ```markdown
 # Raspberry and Elderflower Gin and Tonic
