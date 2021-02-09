@@ -2,6 +2,8 @@
 
 A simple recipe website.
 
+https://mainsails.github.io/Recipes/
+
 Create a new recipe as a [Markdown file](https://daringfireball.net/projects/markdown) and upload it to the recipes folder. The list will auto-populate and each recipe is displayed in a nice, clean format designed for use while cooking or at the store.
 
 Each recipe will auto-generate links to a Google image search for that dish, recipes on Serious Eats and Google and for restaurants on Yelp.
