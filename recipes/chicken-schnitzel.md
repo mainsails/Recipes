@@ -19,10 +19,10 @@
 3. Remove chicken, pat dry, and butterfly as needed into pieces about 1/4" thick  
 4. Place chicken in a plastic bag, one piece at a time, and pound with a rolling pin or meat tenderizer until thin and even  
 5. Place flour, eggs, and panko onto separate plates  
-6. Heat oil in a cast iron skillet to 375º F  
+6. Heat oil in a cast iron skillet to 375Âº F  
 7. Batter chicken one piece at a time in the flour, egg, and panko, patting lightly to get a thorough coating  
 8. Keep prepped cutlets on wire rack  
-9. Fry cutlets, a few at a time and turning often, until golden brown and crisp, about 3–4 minutes total  
+9. Fry cutlets, a few at a time and turning often, until golden brown and crisp, about 3â€“4 minutes total  
 10. Remove to a wire rack, adding salt immediately  
 11. Serve with lemon slices, coleslaw, and cold beer  
 
@@ -32,3 +32,4 @@
 ## based on  
 * https://www.seriouseats.com/recipes/2014/04/chicken-schnitzel-recipe.html  
 * https://www.seriouseats.com/recipes/2018/10/pork-schnitzel-recipe.html  
+
