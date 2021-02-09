@@ -7,7 +7,7 @@ https://mainsails.github.io/Recipes/
 Create a new recipe as a [Markdown file](https://daringfireball.net/projects/markdown), upload it to the recipes folder and append to recipelist.json.
 
 Each recipe is displayed in a nice, clean format designed for use while cooking or at the store.
-Each recipe will auto-generate links to a Google image search for that dish, recipes on Serious Eats and Google and for restaurants on Yelp.
+Recipes will auto-generate links to a Google image search for that dish, recipes on Serious Eats and Google and for restaurants on Yelp.
 
 ## Features
 To save your place while looking up at the ingredients, click the step you're on to highlight it. Click it again to remove the highlight, or use the left/right arrow keys to advance.
