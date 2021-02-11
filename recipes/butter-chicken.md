@@ -1,7 +1,7 @@
-# Butter Chicken 
+# Butter Chicken
 A curry of chicken in a spiced tomato, butter and cream sauce
 
-## ingredients  
+## ingredients
 Tandoori Massala:
 * 3-4 chicken breasts cubed
 * 1.5 cups plain yoghurt
@@ -11,10 +11,10 @@ Tandoori Massala:
 * 1 tsp chili powder
 * 1 tsp salt
 * 1/2 tsp cumin
-* 1/2 tsp coriander 
-* 1/2 tsp chaat masala  
-* 1/2 tsp garam masala  
-* 1/2 tsp turmeric 
+* 1/2 tsp coriander
+* 1/2 tsp chaat masala
+* 1/2 tsp garam masala
+* 1/2 tsp turmeric
 * 1/2 tsp pepper
 
 Butter Chicken:
@@ -46,8 +46,8 @@ Butter Chicken:
 4. Cook for 10-15 minutes
 5. Add cooked onion, chilies and cream
 
-## notes  
-* Include remaining marinate sauce when adding chicken 
+## notes
+* Include remaining marinate sauce when adding chicken
 
-## based on  
-* random youtube granny
+## based on
+* Random youtube granny
