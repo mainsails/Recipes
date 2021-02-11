@@ -37,7 +37,7 @@ Tandoori Massala:
 1. Stir all ingredients
 2. Marinate overnight
 3. Prepare skewers
-3. Grill under high heat
+4. Grill under high heat
 
 Butter Chicken:
 1. Fry the onion and chilies in oil till golden brown
