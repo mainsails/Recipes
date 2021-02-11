@@ -50,4 +50,4 @@ Butter Chicken:
 * Include remaining marinate sauce when adding chicken
 
 ## based on
-* Random youtube granny
+* https://youtu.be/6kneJMZufpI
