@@ -35,19 +35,19 @@ Butter Chicken:
 ## steps
 Tandoori Massala:
 1. Stir all ingredients
-2. Marinate overnight
+2. Marinade overnight
 3. Prepare skewers
 4. Grill under high heat
 
 Butter Chicken:
 1. Fry the onion and chilies in oil till golden brown
 2. Remove onion and chilies from pan and put to the side
-3. Add remaining ingredients to pan along with marinated chicken
+3. Add remaining ingredients to pan along with marinaded chicken
 4. Cook for 10-15 minutes
 5. Add cooked onion, chilies and cream
 
 ## notes
-* Include remaining marinate sauce when adding chicken
+* Include remaining marinade sauce when adding chicken
 
 ## based on
 * https://youtu.be/6kneJMZufpI
